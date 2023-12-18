@@ -24,6 +24,7 @@ body {
     justify-content: space-between;
     align-items: center;
     height: 4rem;
+    position: fixed;
 }
 .header__logo {
     display: flex;
